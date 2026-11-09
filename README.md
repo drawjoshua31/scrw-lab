@@ -160,7 +160,6 @@ scripts/            host and device builds
    next
 4. `docs/ARCHITECTURE.md`: modules, invariants, and how to add a backend
 5. `docs/ROADMAP.md`: phases with exit criteria
-6. `docs/ETHICS.md`: before you publish anything
 
 ## Credits
 
